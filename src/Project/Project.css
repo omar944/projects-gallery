@@ -1,0 +1,53 @@
+@font-face {
+	font-family: DroidKofi;
+	src: url(../assets/fonts/DroidKufi.ttf);
+}
+
+@font-face {
+	font-family: NotoSans;
+	src: url(../assets/fonts/NotoSans.ttf);
+}
+
+.tajawal {
+	font-family: DroidKofi;
+	line-height: 1.4em;
+}
+
+.tahoma {
+	font-family: NotoSans;
+}
+
+.all {
+	font-family: Cairo;
+}
+
+.the-circle {
+	width: 80px;
+	height: 80px;
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 100%;
+	/* background-color: black; */
+}
+
+.test {
+	height: 400px;
+	object-fit: contain;
+}
+
+.tool-wrapper {
+	display: flex;
+	align-items: center;
+	border: 1px solid grey;
+	border-radius: 10px;
+	margin: 2px;
+}
+.tool-title {
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.tool-icon {
+	font-size: 30px;
+	padding: 2px;
+}

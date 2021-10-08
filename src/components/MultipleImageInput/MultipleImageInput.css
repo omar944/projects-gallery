@@ -1,0 +1,50 @@
+.fake-image
+{
+    height: 100px;
+    width: 100px;
+    background-color:grey;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.upload-image-preview
+{
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+}
+
+
+.clear-button
+{
+    position: absolute;
+    top: 4px;
+    right: 2px;
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    opacity: .9;
+}
+
+.clear-button:hover
+{
+    background-color: grey;
+    color: white;
+    animation-delay: 200ms;
+}
+.x-icon
+{
+    position: relative;
+    height: 100%;
+    vertical-align: middle;
+}

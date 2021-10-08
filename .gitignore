@@ -1,0 +1,18 @@
+/db.sqlite3
+/static
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+
+.idea/
+.vscode/
+media/
+.env
+projects_gallery/.env
+/media
+/node_modules
+node_modules
+staticfiles/

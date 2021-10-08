@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2edf37b8.chunk.css",
+    "main.js": "/static/js/main.240548fb.chunk.js",
+    "main.js.map": "/static/js/main.240548fb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2f17172.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2f17172.js.map",
+    "static/css/2.9a0285d9.chunk.css": "/static/css/2.9a0285d9.chunk.css",
+    "static/js/2.97a2645b.chunk.js": "/static/js/2.97a2645b.chunk.js",
+    "static/js/2.97a2645b.chunk.js.map": "/static/js/2.97a2645b.chunk.js.map",
+    "static/js/3.fd9f6905.chunk.js": "/static/js/3.fd9f6905.chunk.js",
+    "static/js/3.fd9f6905.chunk.js.map": "/static/js/3.fd9f6905.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9a0285d9.chunk.css.map": "/static/css/2.9a0285d9.chunk.css.map",
+    "static/css/main.2edf37b8.chunk.css.map": "/static/css/main.2edf37b8.chunk.css.map",
+    "static/js/2.97a2645b.chunk.js.LICENSE.txt": "/static/js/2.97a2645b.chunk.js.LICENSE.txt",
+    "static/media/global.css": "/static/media/Cairo.cc12ed77.ttf",
+    "static/media/Projects.css": "/static/media/rabar.5e37b700.ttf",
+    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/devicon.min.css": "/static/media/devicon.faa6b335.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2f17172.js",
+    "static/css/2.9a0285d9.chunk.css",
+    "static/js/2.97a2645b.chunk.js",
+    "static/css/main.2edf37b8.chunk.css",
+    "static/js/main.240548fb.chunk.js"
+  ]
+}

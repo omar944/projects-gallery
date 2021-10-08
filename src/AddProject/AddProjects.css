@@ -1,0 +1,33 @@
+.all
+{
+    font-family: Cairo;
+}
+
+
+.main-title
+{
+    font-size: 28px;
+    color: #16507b;
+
+}
+
+.add-button
+{
+    display: flex;
+    padding: .375rem .75rem;
+    /* border: 1px solid #ced4da; */
+    border-width: 1px;
+    cursor: pointer;
+    align-self: flex-end;
+    height: 38px;
+    margin-right: 2px;
+    border-top-left-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    width: 100px;
+
+
+}

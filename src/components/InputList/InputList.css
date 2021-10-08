@@ -1,0 +1,13 @@
+
+.list-wrapper
+{
+    background-color: white;
+    border-radius: .25rem;
+    /* padding: .375rem .75rem; */
+}
+
+.list-item
+{
+    padding: 0.25rem .75rem;
+    border-bottom: 1px solid #ced4da;
+}
