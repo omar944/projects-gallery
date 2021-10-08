@@ -47,4 +47,5 @@ class ProjectWriteSerializer(serializers.ModelSerializer):
         instance = super().create(validated_data)
         instance.presentation=presentation
         instance.documentation=documentation
+        instance.save()
         return instance

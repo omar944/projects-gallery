@@ -6,7 +6,7 @@ def upload_to(instance, filename, name):
 
 
 def upload_book(instance, filename):
-    return upload_to(instance, filename, 'book')
+    return upload_to(instance, filename, 'documentation')
 
 
 def upload_presentation(instance, filename):
